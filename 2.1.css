@@ -1,5 +1,5 @@
 #yt-masthead-user .yt-masthead-user-icon {
-    border-radius: 0%;
+    border-radius: 0%!important;
     cursor: pointer;
     overflow: hidden;
     padding: 0;
